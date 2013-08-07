@@ -50,9 +50,6 @@
     </licenses>
 
     <properties>
-        <!-- Version of Deltaspike -->
-        <version.org.apache.deltaspike>0.3-incubating</version.org.apache.deltaspike>
-        
         <!-- Versions of JBoss projects -->
         <version.org.infinispan>5.2.6.Final-redhat-1</version.org.infinispan>
         <version.org.jboss.arquillian>1.0.3.Final</version.org.jboss.arquillian>
@@ -108,7 +105,6 @@
     </properties>
 
     <modules>
-        <module>jboss-javaee-6.0-with-deltaspike</module>
         <module>jboss-javaee-6.0-with-errai</module>
         <module>jboss-javaee-6.0-with-hibernate</module>
         <module>jboss-javaee-6.0-with-hibernate3</module>
